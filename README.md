@@ -3,7 +3,6 @@
 Welcome to my page! I'm Chae Eun!  
 I am studying to be a backend developer.  
 <br/>
-<br/>
 
 ## ✨I’m currently learning✨ 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
